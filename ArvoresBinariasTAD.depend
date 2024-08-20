@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1724189432 source:c:\users\pedro\documents\estudosacadêmicos\c,ed,acc\ed-rafael\praticaed\arvoresbinariastad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1724189561 c:\users\pedro\documents\estudosacadêmicos\c,ed,acc\ed-rafael\praticaed\arvoresbinariastad\lib.h
+
+1724189617 source:c:\users\pedro\documents\estudosacadêmicos\c,ed,acc\ed-rafael\praticaed\arvoresbinariastad\modulo.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
